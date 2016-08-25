@@ -1,6 +1,0 @@
-#include "tom's anatomy"
-
-public int main(){
-  Object dick;
-  int inches = 9;
-}
